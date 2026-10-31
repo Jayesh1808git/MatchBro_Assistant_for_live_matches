@@ -24,7 +24,7 @@ more interactive experience to cricket fans.
 
 
 [Watch the MatchBro AI
-Demo](docs/demo.mp4)
+Demo](https://drive.google.com/file/d/1z38xpPqvcqVDJ0xBIagNoO2LauwT2RcJ/view?usp=sharing)
 
 
 
