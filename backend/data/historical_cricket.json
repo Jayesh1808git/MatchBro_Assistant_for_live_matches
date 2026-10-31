@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": "history_001",
+    "category": "ODI Records",
+    "title": "Highest individual ODI score",
+    "content": "Rohit Sharma scored 264 runs against Sri Lanka at Eden Gardens in Kolkata on 13 November 2014. It remains the highest individual score in men's ODI cricket.",
+    "entities": ["Rohit Sharma", "Sri Lanka", "Eden Gardens"],
+    "source": "ESPNcricinfo scorecard: India vs Sri Lanka, Kolkata, 13 November 2014"
+  },
+  {
+    "id": "history_002",
+    "category": "Test Records",
+    "title": "Highest individual Test score",
+    "content": "Brian Lara scored an unbeaten 400 for the West Indies against England in Antigua in April 2004. It is the highest individual score in men's Test cricket.",
+    "entities": ["Brian Lara", "West Indies", "England"],
+    "source": "ESPNcricinfo scorecard: West Indies vs England, Antigua, April 2004"
+  },
+  {
+    "id": "history_003",
+    "category": "World Cup History",
+    "title": "India wins the inaugural Men's T20 World Cup",
+    "content": "India won the inaugural ICC Men's T20 World Cup in 2007, defeating Pakistan in the final in Johannesburg.",
+    "entities": ["India", "Pakistan", "2007 T20 World Cup"],
+    "source": "ICC Men's T20 World Cup 2007 final"
+  },
+  {
+    "id": "history_004",
+    "category": "World Cup History",
+    "title": "2019 Men's Cricket World Cup final",
+    "content": "England and New Zealand tied both their 50-over final and the Super Over at Lord's in 2019. England were declared champions under the boundary-count rule then in force. The ICC subsequently removed that boundary-count tiebreaker.",
+    "entities": ["England", "New Zealand", "2019 World Cup"],
+    "source": "ICC Men's Cricket World Cup 2019 final"
+  },
+  {
+    "id": "history_005",
+    "category": "Player Records",
+    "title": "Sachin Tendulkar's international centuries",
+    "content": "Sachin Tendulkar scored 100 international centuries: 51 in Test cricket and 49 in ODI cricket.",
+    "entities": ["Sachin Tendulkar", "India"],
+    "source": "ESPNcricinfo player statistics: Sachin Tendulkar"
+  },
+  {
+    "id": "history_006",
+    "category": "T20 History",
+    "title": "First men's T20 International",
+    "content": "The first men's T20 International was played between Australia and New Zealand in February 2005.",
+    "entities": ["Australia", "New Zealand"],
+    "source": "ESPNcricinfo match archive: Australia vs New Zealand, February 2005"
+  },
+  {
+    "id": "history_007",
+    "category": "World Cup History",
+    "title": "India wins the 1983 World Cup",
+    "content": "India defeated the West Indies in the 1983 Men's Cricket World Cup final at Lord's, winning by 43 runs.",
+    "entities": ["India", "West Indies", "1983 World Cup"],
+    "source": "ICC Men's Cricket World Cup 1983 final"
+  },
+  {
+    "id": "history_008",
+    "category": "ODI Records",
+    "title": "First men's ODI double century",
+    "content": "Sachin Tendulkar became the first batter to score a double century in men's ODI cricket, scoring 200 not out against South Africa in Gwalior in February 2010.",
+    "entities": ["Sachin Tendulkar", "South Africa", "Gwalior"],
+    "source": "ESPNcricinfo scorecard: India vs South Africa, Gwalior, 24 February 2010"
+  }
+]
